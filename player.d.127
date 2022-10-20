@@ -1,0 +1,2 @@
+player.o: player.cpp player.h actor.h point.h queue.h dllist.h stack.h \
+  maze.h
